@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://web01.pl/</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>http://web01.pl/kontakt/</loc>
+		<lastmod>2016-09-18T16:03:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://web01.pl/</loc>
+		<lastmod>2016-09-18T15:55:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+</urlset><!-- Successfully submitted sitemap to Google on September 19, 2016 (5:05 pm) -->
+<!-- Successfully submitted sitemap to Bing on September 19, 2016 (5:05 pm) -->

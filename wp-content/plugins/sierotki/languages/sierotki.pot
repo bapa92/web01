@@ -1,0 +1,173 @@
+# Copyright (C) 2016 Orphans
+# This file is distributed under the same license as the Orphans package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Orphans trunk\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/sierotki\n"
+"POT-Creation-Date: 2016-01-09 21:53:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Marcin Pietrzak <marcin@iworks.pl>\n"
+"Language-Team: Marcin Pietrzak <marcin@iworks.pl>\n"
+
+#: vendor/iworks/orphan.php:35
+msgid "Use for comments:"
+msgstr ""
+
+#: vendor/iworks/orphan.php:37
+msgid "Enabled the substitution of orphans in the comments."
+msgstr ""
+
+#: vendor/iworks/orphan.php:41
+msgid "Use for post title:"
+msgstr ""
+
+#: vendor/iworks/orphan.php:43
+msgid "Enabled the substitution of orphans in the post_title."
+msgstr ""
+
+#: vendor/iworks/orphan.php:47
+msgid "Use for excerpt:"
+msgstr ""
+
+#: vendor/iworks/orphan.php:49
+msgid "Enabled the substitution of orphans in the excerpt."
+msgstr ""
+
+#: vendor/iworks/orphan.php:53
+msgid "Use for content:"
+msgstr ""
+
+#: vendor/iworks/orphan.php:55
+msgid "Enabled the substitution of orphans in the content."
+msgstr ""
+
+#: vendor/iworks/orphan.php:59
+msgid "Use for WooCommerce product title:"
+msgstr ""
+
+#: vendor/iworks/orphan.php:61
+msgid "Enabled the substitution of orphans in the WooCommerce product title."
+msgstr ""
+
+#: vendor/iworks/orphan.php:65
+msgid "Use for WooCommerce short description:"
+msgstr ""
+
+#: vendor/iworks/orphan.php:67
+msgid ""
+"Enabled the substitution of orphans in the WooCommerce short description."
+msgstr ""
+
+#: vendor/iworks/orphan.php:71
+msgid "Keep numbers together:"
+msgstr ""
+
+#: vendor/iworks/orphan.php:73
+msgid "Allowto keep together phone number or number with unit e.g. 10 kg."
+msgstr ""
+
+#: vendor/iworks/orphan.php:77
+msgid "User definied orphans:"
+msgstr ""
+
+#: vendor/iworks/orphan.php:79
+msgid "Use a comma to separate orphans."
+msgstr ""
+
+#. #-#-#-#-#  sierotki.pot (Orphans trunk)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: vendor/iworks/orphan.php:160 vendor/iworks/orphan.php:247
+#: vendor/iworks/orphan.php:248 vendor/iworks/orphan.php:277
+msgid "Orphans"
+msgstr ""
+
+#: vendor/iworks/orphan.php:211
+msgid "Save Changes"
+msgstr ""
+
+#: vendor/iworks/orphan.php:217
+msgid "Loved this Plugin?"
+msgstr ""
+
+#: vendor/iworks/orphan.php:219
+msgid "Below are some links to help spread this plugin to other users"
+msgstr ""
+
+#: vendor/iworks/orphan.php:221
+msgid "Give it a 5 star on Wordpress.org"
+msgstr ""
+
+#: vendor/iworks/orphan.php:222
+msgid "Link to it so others can easily find it"
+msgstr ""
+
+#: vendor/iworks/orphan.php:227
+msgid "Need Assistance?"
+msgstr ""
+
+#: vendor/iworks/orphan.php:229
+msgid "Problems? The links bellow can be very helpful to you"
+msgstr ""
+
+#: vendor/iworks/orphan.php:231
+msgid "http://wordpress.org/support/plugin/sierotki"
+msgstr ""
+
+#: vendor/iworks/orphan.php:231
+msgid "Wordpress Help Forum"
+msgstr ""
+
+#: vendor/iworks/orphan.php:235
+msgid "Created by: "
+msgstr ""
+
+#: vendor/iworks/orphan.php:278
+msgid "Plugin fix some Polish gramary rules with orphans."
+msgstr ""
+
+#: vendor/iworks/orphan.php:284
+msgid "For more information:"
+msgstr ""
+
+#: vendor/iworks/orphan.php:285
+msgid ""
+"<a href=\"http://wordpress.org/extend/plugins/sierotki/\" target=\"_blank"
+"\">Plugin Homepage</a>"
+msgstr ""
+
+#: vendor/iworks/orphan.php:286
+msgid ""
+"<a href=\"http://wordpress.org/support/plugin/sierotki/\" target=\"_blank"
+"\">Support Forums</a>"
+msgstr ""
+
+#: vendor/iworks/orphan.php:287
+msgid "<a href=\"http://iworks.pl/en/\" target=\"_blank\">break the web</a>"
+msgstr ""
+
+#: vendor/iworks/orphan.php:334
+msgid "Settings"
+msgstr ""
+
+#: vendor/iworks/orphan.php:336
+msgid "Donate"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://iworks.pl/2011/02/16/sierotki/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Implement Polish grammar rules with orphans."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Marcin Pietrzak"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://iworks.pl/"
+msgstr ""

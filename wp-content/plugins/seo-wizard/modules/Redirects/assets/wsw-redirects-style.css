@@ -1,0 +1,11 @@
+label.textinput{
+    width: 100px;
+}
+input.textinput{
+    width: 250px;
+    margin-bottom: 10px;
+}
+p.seo-redirect-desc{
+    color: #808080;
+    font-size: 13px;
+}

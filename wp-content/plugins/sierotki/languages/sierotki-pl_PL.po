@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sierotki\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/sierotki\n"
+"POT-Creation-Date: 2016-01-11 06:23:12+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marcin Pietrzak <marcin@iworks.pl>\n"
+"Language-Team: Iworks\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: vendor/iworks/orphan.php:35
+msgid "Use for comments:"
+msgstr "Używaj w komentarzach:"
+
+#: vendor/iworks/orphan.php:37
+msgid "Enabled the substitution of orphans in the comments."
+msgstr "Włącz obsługę sierotek w komentarzach."
+
+#: vendor/iworks/orphan.php:41
+msgid "Use for post title:"
+msgstr "Używaj w tytułach:"
+
+#: vendor/iworks/orphan.php:43
+msgid "Enabled the substitution of orphans in the post_title."
+msgstr "Włącz obsługę sierotek dla tytułów."
+
+#: vendor/iworks/orphan.php:47
+msgid "Use for excerpt:"
+msgstr "Używaj w zajawce:"
+
+#: vendor/iworks/orphan.php:49
+msgid "Enabled the substitution of orphans in the excerpt."
+msgstr "Włącz obsługę sierotek w zajawce."
+
+#: vendor/iworks/orphan.php:53
+msgid "Use for content:"
+msgstr "Używaj w treści:"
+
+#: vendor/iworks/orphan.php:55
+msgid "Enabled the substitution of orphans in the content."
+msgstr "Włącz obsługę sierotek w treści."
+
+#: vendor/iworks/orphan.php:59
+msgid "Use for WooCommerce product title:"
+msgstr "Używaj w tytułach produktów WooCommerce:"
+
+#: vendor/iworks/orphan.php:61
+msgid "Enabled the substitution of orphans in the WooCommerce product title."
+msgstr "Włącz obsługę sierotek dla tytułów produktów WooCommerce."
+
+#: vendor/iworks/orphan.php:65
+msgid "Use for WooCommerce short description:"
+msgstr "Używaj w krótkim opisie produktu WooCommerce."
+
+#: vendor/iworks/orphan.php:67
+msgid ""
+"Enabled the substitution of orphans in the WooCommerce short description."
+msgstr "Włącz obsługę sierotek w krótkim opisie produktu WooCommerce."
+
+#: vendor/iworks/orphan.php:71
+msgid "Keep numbers together:"
+msgstr "Trzymaj liczby razem:"
+
+#: vendor/iworks/orphan.php:73
+msgid ""
+"Allow to keep together phone number or strings with space between numbers."
+msgstr "Pozwala na nierozdzielanie numeru telefonu oraz liczb między którymi jest spacja."
+
+#: vendor/iworks/orphan.php:77
+msgid "User definied orphans:"
+msgstr "Własna definicja sierotek:"
+
+#: vendor/iworks/orphan.php:79
+msgid "Use a comma to separate orphans."
+msgstr "Użyj przecinka do oddzielenia sierot."
+
+#. #-#-#-#-#  trunk.pot (Orphans trunk)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: vendor/iworks/orphan.php:165 vendor/iworks/orphan.php:252
+#: vendor/iworks/orphan.php:253 vendor/iworks/orphan.php:282
+msgid "Orphans"
+msgstr "Sierotki"
+
+#: vendor/iworks/orphan.php:216
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: vendor/iworks/orphan.php:222
+msgid "Loved this Plugin?"
+msgstr "Czy lubisz tę wtyczkę?"
+
+#: vendor/iworks/orphan.php:224
+msgid "Below are some links to help spread this plugin to other users"
+msgstr "Poniżej znajdują się odnośniki, które mogą pomóc innym użytkownikom"
+
+#: vendor/iworks/orphan.php:226
+msgid "Give it a 5 star on Wordpress.org"
+msgstr "Daj wtyczce 5 gwiazdek na wordpress.org"
+
+#: vendor/iworks/orphan.php:227
+msgid "Link to it so others can easily find it"
+msgstr "Odnośnik do wtyczki - żeby łatwo było znaleźć"
+
+#: vendor/iworks/orphan.php:232
+msgid "Need Assistance?"
+msgstr "Potrzebujesz pomocy?"
+
+#: vendor/iworks/orphan.php:234
+msgid "Problems? The links bellow can be very helpful to you"
+msgstr "Problemy? Poszukaj pomocy poniżej"
+
+#: vendor/iworks/orphan.php:236
+msgid "http://wordpress.org/support/plugin/sierotki"
+msgstr "http://wordpress.org/support/plugin/sierotki"
+
+#: vendor/iworks/orphan.php:236
+msgid "Wordpress Help Forum"
+msgstr "Forum Wtyczki (en)"
+
+#: vendor/iworks/orphan.php:240
+msgid "Created by: "
+msgstr "Stworzona przez: "
+
+#: vendor/iworks/orphan.php:283
+msgid "Plugin fix some Polish gramary rules with orphans."
+msgstr ""
+"Wtyczka poprawia w treściach spacje związane z sierotkami, tak żeby nie "
+"rozdzielać np. spójników od innych wyrazów."
+
+#: vendor/iworks/orphan.php:289
+msgid "For more information:"
+msgstr "Więcej informacji:"
+
+#: vendor/iworks/orphan.php:290
+msgid ""
+"<a href=\"http://wordpress.org/extend/plugins/sierotki/\" target=\"_blank"
+"\">Plugin Homepage</a>"
+msgstr ""
+"<a href=\"http://wordpress.org/extend/plugins/sierotki/\" target=\"_blank"
+"\">Strona wtyczki (en)</a>"
+
+#: vendor/iworks/orphan.php:291
+msgid ""
+"<a href=\"http://wordpress.org/support/plugin/sierotki/\" target=\"_blank"
+"\">Support Forums</a>"
+msgstr ""
+"<a href=\"http://wordpress.org/support/plugin/sierotki/\" target=\"_blank"
+"\">Forum pomocy (en)</a>"
+
+#: vendor/iworks/orphan.php:292
+msgid "<a href=\"http://iworks.pl/en/\" target=\"_blank\">break the web</a>"
+msgstr "<a href=\"http://iworks.pl/\" target=\"_blank\">przełam sieć</a>"
+
+#: vendor/iworks/orphan.php:339
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: vendor/iworks/orphan.php:341
+msgid "Donate"
+msgstr "Darowizna"
+
+#. Plugin URI of the plugin/theme
+msgid "http://iworks.pl/2011/02/16/sierotki/"
+msgstr "http://iworks.pl/2011/02/16/sierotki/"
+
+#. Description of the plugin/theme
+msgid "Implement Polish grammar rules with orphans."
+msgstr "Pilnuje zasady nie zostawiania sierotek na końcu linii."
+
+#. Author of the plugin/theme
+msgid "Marcin Pietrzak"
+msgstr "Marcin Pietrzak"
+
+#. Author URI of the plugin/theme
+msgid "http://iworks.pl/"
+msgstr "http://iworks.pl/"
+
+#~ msgid "Orphan"
+#~ msgstr "Sierotki"
+
+#~ msgid "Sierotki"
+#~ msgstr "Sierotki"
+
+#~ msgid "Wtyczka zamienia leżące za sierotkami spacje w jedną twardą."
+#~ msgstr "Wtyczka zamienia leżące za sierotkami spacje w jedną twardą."
+
+#~ msgid "Add your own orphans."
+#~ msgstr "Dodaj własne sierotki:"
