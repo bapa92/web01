@@ -18,18 +18,30 @@
  * @package WordPress
  */
 
-// ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define('DB_NAME', 'database_name_here');
+define('WP_SITEURL', 'http://' . $_SERVER['SERVER_NAME'] . '/wordpress');
+define('WP_HOME',    'http://' . $_SERVER['SERVER_NAME']);
+define('WP_CONTENT_DIR', $_SERVER['DOCUMENT_ROOT'] . '/wp-content');
+define('WP_CONTENT_URL', 'http://' . $_SERVER['SERVER_NAME'] . '/wp-content');
 
-/** MySQL database username */
-define('DB_USER', 'username_here');
+ 
+if ($_SERVER['REMOTE_ADDR']=='127.0.0.1') {
+    define('WP_ENV', 'development');
+} else {
+    define('WP_ENV', 'production');
+}
 
-/** MySQL database password */
-define('DB_PASSWORD', 'password_here');
-
-/** MySQL hostname */
-define('DB_HOST', 'localhost');
+// MySQL settings - You can get this info from your web host //
+if (WP_ENV == 'development') {
+    define('DB_NAME', 'mydb-dev');
+    define('DB_USER', 'root');
+    define('DB_PASSWORD', '');
+    define('DB_HOST', 'localhost');
+} else {
+    define('DB_NAME', 'mydb-prod');
+    define('DB_USER', 'username');
+    define('DB_PASSWORD', 'pasdword');
+    define('DB_HOST', 'mysql.mysite.com');
+} 
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
