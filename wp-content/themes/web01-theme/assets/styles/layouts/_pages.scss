@@ -1,0 +1,33 @@
+.wrap.container{
+	padding:  80px 20px 70px 20px;
+	min-height: 100vh;
+	box-sizing: border-box;
+}
+.sidebar-primary .main{
+	background: rgba($baseColor, 0.6);
+	border: 1px solid $secondaryColor;
+	font-size: 18px;
+	padding-bottom: 20px;
+	margin-top: 20px;
+	@media(min-width:768px){
+		margin:  0 5px;
+		width: 65%;
+	}
+	
+	.page-header{
+		margin: 0;
+		color: $secondaryColor;
+		padding: 0;
+		margin-bottom: 20px;
+		border-color: $secondaryColor;
+	h1{
+		font-size: $font-size-h2;
+		font-weight: bold;
+		&:after{
+			content: ":";
+			}
+		}
+	}
+
+}
+	

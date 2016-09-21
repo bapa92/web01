@@ -1,0 +1,42 @@
+ body{
+	font-family: 'Arial', sans-serif;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover; 
+    background-position: 0 0;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+ }
+
+.wp-editor {
+	background-color: LightGray;
+}
+#wpadminbar { position: absolute !important; }
+
+.foogallery-container{
+	.bf-item{background: $secondaryColor}
+	.bf-caption{
+	 text-align: center;
+	 background: #000;
+	 color: white;
+	 opacity: 0.8;
+	 width: 100%;
+	 z-index: 8;
+	 position: absolute;
+	 bottom: 0;
+	 left: 0;
+	margin-bottom: 5px;
+		h4{
+			border-bottom: none;
+		}
+	}
+}
+.fbx-caption-title, .fbx-caption{display:none; visibility: hidden;}
+
+.slider_main{
+	.nivo-caption{
+		 text-align: center;
+	}
+}

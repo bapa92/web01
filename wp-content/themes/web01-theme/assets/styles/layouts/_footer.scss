@@ -1,0 +1,35 @@
+
+.content-info{
+	padding: 10px 0px;
+	margin-top: -50px; 
+	line-height: 30px;
+	min-height: 50px;
+	font-size: $font-size-h5;
+	box-sizing: border-box;
+	border-top-style: groove;
+	border-top-color: $secondaryColor;
+	background: rgba( $baseColor, 0.85);
+	img{
+		height: 100%;
+		border: 0;
+	}
+	.footer-text{
+		text-align: center;
+	.site-name{
+			color: $secondaryColor;
+			font-weight: bold;
+			display: inline-block;
+		}
+		.cookie{
+			&:before,&:after{
+				text-decoration: none;
+				padding: 0px 20px;
+				content: "\0399";
+			} 
+			a{
+				text-decoration: underline;
+			} 
+		}
+	}
+}
+

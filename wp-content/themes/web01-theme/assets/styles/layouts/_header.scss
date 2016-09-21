@@ -1,0 +1,60 @@
+.navbar-default{
+	border: 0;
+}
+.navbar {
+	@include background(linear-gradient(rgba( $baseColor, 0.96)90%, $secondaryColor) left repeat);
+	 @media(max-width:767px){
+      		background: rgba( $baseColor, 0.65);
+      		border: 0;
+      		.navbar-header{
+
+      		}
+      		.navbar-collapse{border: 0}
+    }
+	.navbar-brand{
+		padding-top: 2px; 
+		padding-bottom: 2px;
+		img {
+			max-width: 100%;
+			height: 90%;
+			display: block;
+		}
+	}
+
+	h3.navbar-text{ 
+		margin: 22px 0  0 50px;
+	    font-style: italic;
+	    color: gray;
+	    font-family: Courgette;
+	    @media(max-width:991px){
+      		display: none;
+    	}
+	}
+
+	.navbar-nav{
+		font-size: $font-size-h3;
+		margin: 0 -15px;
+			li{
+				display: block;
+				&:not(.active)>a{
+					padding-left: 20px;
+					padding-right: 20px;
+					width: 100%;
+					@extend .hvr-sweep-to-top;
+						&:hover,
+					&:focus,
+					&:active {
+						color: black;
+					}
+					&:before{
+						@include background(linear-gradient(rgba( $baseColor, 0.5)10%, $secondaryColor) left repeat);
+					}
+				}
+				&.current-page-ancestor, &.active {
+					pointer-events: none;
+   					cursor: default;
+					@include background(linear-gradient(rgba( $baseColor, 0.5)10%, $secondaryColor) left repeat);
+				} 
+			}
+	}
+}
